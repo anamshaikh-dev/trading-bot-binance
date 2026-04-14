@@ -51,7 +51,7 @@ trading_bot/
 
 ### 1. Clone Repository
 
-git clone https://github.com/your-username/trading-bot-binance.git
+git clone https://github.com/anamshaikh-dev/trading-bot-binance.git
 
 cd trading-bot-binance
 
